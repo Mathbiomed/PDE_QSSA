@@ -1,6 +1,7 @@
 # PDE QSSA
 
-Matlab code for simulating quasi-steady state approximations (QSSAs) of biochemical systems assuming a PDE system. 
+Matlab code for simulating quasi-steady state approximations (QSSAs) of biochemical systems assuming a PDE system. See Beyond Homogeneity: Assessing the Validity of the Michaelis–Menten Rate Law in Spatially Heterogeneous Environments
+, PloS Comp Biol (2024) for details.
 
 ## Code Description
 1. Fig2
